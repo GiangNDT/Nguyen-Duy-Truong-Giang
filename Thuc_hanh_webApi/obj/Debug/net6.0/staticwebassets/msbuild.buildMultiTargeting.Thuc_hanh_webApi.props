@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Thuc_hanh_webApi.props" />
+</Project>
